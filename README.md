@@ -6,16 +6,6 @@ I'm a Systems Engineer with a strong foundation in **Linux administration, scrip
 
 ---
 
-## 🔧 Technical Toolkit
-
-- **Scripting:** Shell, C++
-- **Cloud Platforms:** AWS, Azure, Google Cloud
-- **DevOps & CI/CD:** GitHub Actions, Docker, Kubernetes, Terraform
-- **Storage Systems:** PowerScale, DLm
-- **Operating Systems:** RHEL, CentOS, Ubuntu
-- **Tools & Platforms:** Git, GitHub, Jenkins, VS Code
-
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
